@@ -4,10 +4,13 @@ A professional, minimal ecommerce storefront template featuring a modern design 
 
 ---
 
+![Project Banner](img/banner/preview.jpeg)
+
 ## 🚀 Features
 
 - **Responsive Navigation**: Includes a primary menu with links to Home, Shop, Blog, About, and Contact pages.
 - **Hero Landing**: An impactful trade-in offer section with a high-value "Shop now" call-to-action.
+- **Brand Showcase**: A dedicated visual section placed before features to highlight key branding or promotions.
 - **Service Highlights**: A dedicated feature section showcasing perks like Free Shipping, Online Orders, and 24/7 Support.
 - **Product Collections**:
   - **Featured Products**: A grid-based layout for the main collection with star ratings and pricing.
@@ -35,8 +38,8 @@ A professional, minimal ecommerce storefront template featuring a modern design 
 
 ## 👤 Author
 
-- **Name**: MH Nahid
+- 👤 **Name**: MH Nahid
 
 ## 🌐 Social Media
 
-- **Contact**: [📧 Send an Email](mailto:mokbulhasannahid@gmail.com)
+- 📧 **Contact**: [Send an Email](mailto:mokbulhasannahid@gmail.com)
