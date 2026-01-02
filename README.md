@@ -35,10 +35,8 @@ A professional, minimal ecommerce storefront template featuring a modern design 
 
 ## 👤 Author
 
-- **Icon**: 👤
 - **Name**: MH Nahid
 
 ## 🌐 Social Media
 
-- **Icon**: 📧
-- **Contact**: [Send an Email](mailto:mokbulhasannahid@gmail.com)
+- **Contact**: [📧 Send an Email](mailto:mokbulhasannahid@gmail.com)
